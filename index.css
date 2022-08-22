@@ -1,0 +1,14 @@
+        Body { background-color: #BDF2D5}
+        
+        hr {background-color: white;
+        border-style: none;
+        height:2px;}
+
+        img {height:200px;
+        border-radius:100%;
+        display: inline-block;}
+
+        .intro {text-align: center;
+        position: absolute;
+        top: 50px;
+        left: 400px;}
